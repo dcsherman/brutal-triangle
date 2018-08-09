@@ -1,5 +1,4 @@
 orig.*
 *.URL
 *.txt
-!sample/*.txt
 *.log
